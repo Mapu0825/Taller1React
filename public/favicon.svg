@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <title>MADY helados</title>
+  <rect width="64" height="64" rx="14" fill="#f6e3c3"/>
+  <!-- cono -->
+  <path d="M20 31 L32 58 L44 31 Z" fill="#d9a35f"/>
+  <path d="M25 31 L32 47 M32 31 L32 58 M39 31 L32 47 M22.5 40 H41.5" stroke="#b9803c" stroke-width="1.6" stroke-linecap="round" fill="none"/>
+  <!-- bola inferior (vainilla) -->
+  <ellipse cx="32" cy="30" rx="14" ry="6.5" fill="#fff8ec"/>
+  <!-- bola superior (fresa) -->
+  <circle cx="32" cy="21" r="12" fill="#a82c57"/>
+  <path d="M22 24 Q32 31 42 24 L42 27 Q38 31 32 31 Q26 31 22 27 Z" fill="#a82c57"/>
+  <!-- brillo -->
+  <circle cx="27" cy="17" r="3" fill="#ffffff" opacity="0.35"/>
+  <!-- cereza -->
+  <circle cx="32" cy="8.5" r="3.2" fill="#4a2c22"/>
+</svg>
